@@ -1,0 +1,58 @@
+(Primeiro Slide; Aula dia 5 de março)
+
+TIC: Tecnologias da Informação e Comunicação 
+Tecnologias que permitem a combinação de poder computacional e comunicação.
+
+SCI: Sistemas Computacionais Interativos - São compostos por hardware, software e meios de comunicação;
+- São desenvolvidos para interagir com as pessoas.
+
+Atores no uso e desenvolvimento de SCIs.
+Stakeholderrs: Fabricantes, vvendedores, suporte, provedores de acesso, produtores de conteúdo, usuários...
+
+Abordagens de desenvolvimento de SCIs.
+Dentro para Fora (Qualidade de construção): dados -> lógica -> interface -> usuarios
+Fora para dentro (Qualidade de uso): usuarios -> interface -> lógica -> dados
+
+Cinco tópicos de estudo de IHC.
+1. Natureza da Interação; 2.Contexto de Uso; 3.Características Humanas; 4.Arquitetura de Sistemas Computacionais; 5.Processo de Desenvolvimento
+
+Benefícios de IHC: Aumentar a produtividade do usuário; reduzir o número e a gravidade dos erros dos usuários;
+reduzir o custo de treinamento; reduzir o custo de suporte; aumento do custo de desenvolvimento vs. aumento da satisfação do usuario.
+
+Conceitos iniciais de IHC - "Entender os objetivos do usuário e através deles projetar uma interface do sistema que facilite a interação e dê uma resposta para ele"
+Contexto de uso do sistema interativo:"toda vez que o usuário faz uso do sistema ele possui um objetivo, ele faz o processo de interação através
+da interface, que é de duas vias (inda e vinda), por fim a interface dá ao usuário uma resposta".
+*O contexto de uso afeta a interação do usuário com o sistema.
+
+Conceito 1: Interação é comunicação com a máquina, é tudo que acontece com a pessoa enquanto se usa um sistema.
+A interação possui várias perspectivas... 
+
+- mídia (ex.: msn, waze), 
+  Interação é a comunicação entre usuários/comunicação usuário-designer, a medidade de qualidade é a qualidade da comunicação mediada e entendimento mútuo, tem como desvantagem a expressividade da comunicação. Possui como objetivo a utilização do sistema como um mediador da comunicação entre pessoas.
+
+- sistema/usuário como computador(ex.:o usúario tem que saber os comandos "ser um especialista") 
+  Interação é análoga à transmissão de dados, a medidade de qualidade é a eficiência, mas como desvantagem possui a necessidade de treinamento do usuário. Possui como objetivos, aumentar a eficiência e transmissão correta de dados e reduzir o tempo de interação e número de erros.
+
+- parceiro de discurso/computador como pessoa (ex.:"passo a passo","wizard")
+  Interação é "uma conversa usuário-sistema", a medidade de qualidade é a adequação da interpretação e geração de textos, mas possui a desvantagem de uma construção não-trivial. Aproximar a interação HC da interação entre seres humanos.
+
+- ferramenta/ trabalho ou produto (ex.: a interação entre o word e o usuário prioriza o trabalho/produto).
+  Interação é uma manipulação da ferramenta, a medidade de qualidade são as funcionalidades relevantes ao usuários e a facilidade de uso, mas como desvantagem o sucesso da interação depende da capacidae do usuário. Seu objetivo é utilizar o sistema como uma ferramenta auxiliar para a execução de uma tarefa. 
+
+*A interface faz diferença na interação(rotação, movimentação).
+
+Conceito 2: Interface (único meio de contato entre o usuário e o sistema)- Contato Físico (motor ou perceptivo)
+- Dispositivos de entrada (participação ativa)
+- Dispositivos de saída (participação passiva)
+- Software (comportamento do sistema) 
+comando -> software -> resultado(imagem, som, impressão).
+
+Interface: Contato Conceitual - (ex.: experar uma ação)
+Interpretação do usuário daquilo que ele percebe através do contato físico (compreensão das respostas; planejamento da interação)
+Influências sobre a interpretação da interface (contexto de uso e objetivos; características físicas e cognitivas; formação, conhecimento e experiência)
+
+É a interface que determina os processos de interação.
+
+Conceito 3: Affordance - Conjunto de características de hardware e software, perceptíveis pelo usuário que aponta para o conjunto de operações que podem ser realizadas no sistema interativo, bem como para a forma de realizá-las, manipulando os elementos da interface.
+- Uma "pista" visual sobre a função de um objeto - características do objeto, capazes de revelar o que os usuários podem fazer com eles.
+
