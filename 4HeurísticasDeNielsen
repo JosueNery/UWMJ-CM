@@ -1,0 +1,39 @@
+Slide Aula04, vídeo com problema no Ulife
+
+As 10 Heurísticas de Nielsen Usabilidade
+Definição: Essencialmente, a usabilidade é um campo de estudo que diz respeito à qualidade de uso de um produto interativo.
+Norma ISO9241: requisitos ergonômicos para trabalho em escritório - "Capacidade que um sistema interativo oferece a seu usuário, em um determinado contexto de operação, para realização de tarefaz de maneira eficaz, eficiente e agradável;"
+------------------------------------
+
+Subcaracterísticas - modelo ISO 9126
+Inteligibilidade: Capacidade de permitir ao usuário entender se o software é adequado, e como ele pode ser usado para tarefas e condições de uso particulares.
+Capacidade de se aprender a utilizar (learnability): Capacidade do produto de software de permitir ao usuário aprender a utilizar sua aplicação.
+Operabilidade: Capacidade do produto de software de permitir ao usuário operá-lo e controlá-lo. Operabilidade corresponde a eficiência no uso, controlabilidade, tolerância a erros, e conformidade com as expectativas dos usuários.
+Atratividade: Capacidade do produto de software de ser atraente para o usuário.
+
+*IMPORANTE - Gráfico de relação na página 4.
+------------------------------------
+
+As Heurísticcas de Nielsen
+"Análise Heurística é um método de engenharia de usabilidade para encontrar os erros de usabilidade em uma interface que sejam corrigidos em um processo de desenvolvimento iterativo. Envolve um pequeno grupo de avaliadores para examinar a interface
+e avaliá-la de acordo com os princípios de usabilidade reconhecidos (as heurísticas)."- Nielsen
+
+1º Passo: Briefing - Os avaliadores discutem os critérios da avaliação como tarefas, por exemplo.
+2º Passo: Avaliação (cerca de 2h) - Independente; Double check: 1 para fluxo e tarefas e outro para interface e elementos.
+3º Passo: Reunião de resultados e relatório- Discutir problemas; Priorizá-los; Elaborar recomendações e soluções.
+
+Análise Heurística - preditiva: baseada na experiência/expectativas do especialista.
+Testes com usuários - empírica: baseada na observação do comportamento.
+-------------------------------------
+
+As 10 Heurísticas de Nielsen
+1. Visibilidade do status do sistema (feedback) - O sistema deve informar continuamente e apropriadamente ao usuário sobre o que ele está fazendo, em tempo razoável.
+2. Compatibilidade do sistema com o mundo real - A terminologia e os elementos de interface devem ser baseados na linguagem do usuário, não do sistema. As informações devem ser organizadas conforme o modelo mental do usuário.
+3. Controle do usuário e liberdade - O usuário controla o sistema. Ele pode, por exemplo, abortar uma tarefa ou desfazer uma operação e retornar ao estado anterior.
+4. Consistência e padrões - Um comando, ação ou elemento de interface deve ter sempre o mesmo efeito e aparência. A mesma operação deve ser apresentada na mesma localização e deve ser formatada/apresentada da mesma maneira para facilitar o reconhecimento.
+5. Prevenção de erros - Evitar situações de erro. Conhecer as situações que mais provocam erros e modificar a interface para que estes erros não ocorram.
+6. Reconhecer em vez de relembrar - O sistema deve mostrar os elementos de diálogo e permitir que o usuário faça suas escolhas, sem a necessidade de lembrar um comando específico.
+7. Flexibilidade e eficiência no uso - Para usuários experientes executarem as operações mais rapidamente. Abraviações, teclas de função, duplo clique no mouse, função de volta em sistemas hipertexto. Atalhos também servem para recuperar informações que estão numa profundidade na árvore navegacional a partir da interface principal.
+8. Estética e design minimalista - Deve-se apresentar exatamente a informação que o usuário precisa no momento, nem mais nem menos. A sequência da interação e o acesso aos objetos e operações devem ser compatíveis com o modo pelo qual o usuário realiza suas tarefas.
+9. Ajudar a reconhecer, diagnosticar e corrigir erros - Linguagem clara e sem códigos. Devem ajudar o usuário a entender e resolver o problema. Não devem culpar ou intimidar o usuário.
+10. Ajuda e documentação - O ideal é que um software seja tão fácil de usar (intuitivo) que não necessite de ajuda ou documentação. Se for necessária a ajuda deve estar facilmente acessível on-line.

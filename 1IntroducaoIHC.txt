@@ -55,4 +55,32 @@ Influências sobre a interpretação da interface (contexto de uso e objetivos; 
 
 Conceito 3: Affordance - Conjunto de características de hardware e software, perceptíveis pelo usuário que aponta para o conjunto de operações que podem ser realizadas no sistema interativo, bem como para a forma de realizá-las, manipulando os elementos da interface.
 - Uma "pista" visual sobre a função de um objeto - características do objeto, capazes de revelar o que os usuários podem fazer com eles.
+Todo sistema interativo precisa de interação, interface e Affordance.
+Exemplo de affordance são ícones.
+
+Aula de UWMJ dia 12 de março.
+Usar um sistema interativo significa interagir com sua interface para alcançar um objetivo em um contexto de uso.
+
+Critérios de Qualidade: Usabilidade - Facilidade de aprendizado da interface/satisfação do usuário.
+Experiência do uso - Emoções e sentimentos do usuário ao usar o sistema.
+Acessibilidade - É tirar as barreiras que podem impedir a interação dos usuários com a interface.
+Comunicabilidade - O sistema/interface comunicar com o usuário as intenções de design a lógica que rege o comportamento do sistema.
+
+Usabilidade: Prof:"É uma norma da qualidade de software, mas vamos focar na usabilidade como uma eurística em que temos que colocar um conjunto de atributos para facilitar o uso do sistema".
+Podemos fazer algumas regras de usabilidade para saber se o software atendeu ou não o objetivo, as regras de usabilidade tem haver com o esforço que se tem para usar um sistema. Esforço se entende como, quanto mais trabalhoso e difícil ele for, mais esforço ele requer e menos prazeroso ele é.
+Requisitos de ergonomia (ISO 9241-11) - Tem haver com o conceito de um produto ou sistema encaixar as qualidades de cada tipo de usuário onde ele pode medir a eficácia, a eficiência e a satisfação do usuário.
+Fatores de Usabilidade (Eurísticas de Nielsen 1993) - Facilidade de aprendizado; Facilidade de recordação; Eficiência; Segurança no uso; Satisfação do usuário.
+
+Acessibilidade - É a capacidade que o suário têm de interagir com o sistema sem que a interface imponha obstáculos.
+Flexibilidade para acesso à informação e interação;
+Igual importância às pessoas com e sem limitações;
+Web Accessibility Initiative (WAI) - W3C
+
+Comunicabilidade: É a comunicação do sistema/interface com o usuário. Ex.: O usuário deve comunicar ao usuário os eventos produzidos por ele.
+"comunica aos usuários suas concepções e intenções ao conceber o sistema."
+Capacidade da interface de comunicar ao usuário a lógica do design(as intenções do designer; os princípios de interação).
+Lógica do design - decisões sobre a quem se destina o sistema, para que serve, qual a vantagem, como funciona.
+
+Ao projetar um sistema interativo tem de definir os critérios prioritários e privilegiá-los no projeto da interação.
+Prioridade definida com base no conhecimento do usuário.
 

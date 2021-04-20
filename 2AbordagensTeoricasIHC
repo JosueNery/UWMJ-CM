@@ -1,0 +1,80 @@
+Aula dia 12 de março (Slide Aula02).
+
+Abordagens Teóricas
+Abordagens e Modelos.
+As primeiras abordagens teóricas utilizadas para investigar fenômenos IHC nasceram na psicologia experimental, por volta dos anos 50 diversos modelos de informação dos processos
+psicológicos surgiram para mensurar e modelar o comportamento humano. Dentre os modelos propostos, os mais utilizados em IHC  são a lei de Hick-Hyman para o tempo de reação de escola e a 
+lei de Fitts, para a capacidade de processamento de informação do sistema motor humano.
+
+A lei de Hick-Hyman relaciona o tempo que leva para uma pessoa tomar uma decisão com o número de possíveis escolhas que ela possui. Ela define que o tempo médio, T, necessário para escolher dentre N operações
+pode ser calculado aproximadamente pelas seguintes fórmulas, onde k é empiricamente determinado. Em geral, assumimos que k~150ms: T = k x log2(N+1), CASO AS OPÇÕES TENHAM IGUAL PROBABILIDADE; OU 
+T=k x E pi log2(1+1/pi), onde pi é a probabilidade da alternativa i, caso as N opções tenham probabilidades diferentes.
+"entende E como o símbolo sígma maiúsculo."
+Essa lei pode ser utilizada para fazer uma estimativa de quanto tempo uma pessoa levará para encontrar uma dentre diversas opções disponíveis numa interface, como, por exemplo, os itens de um Menu EM ORDEM ALFABÉTICA.
+
+Restrição: Caso não haja um princípio de organização das opções que permita ao usuário eliminar metade delas rapidamente, essa lei não se aplica.
+-----------------------------------------------
+
+Lei de Fitts - A lei de Fitts relaciona o tempo (T) que uma pessoa leva para apontar para algo com o tamanho (S) do objeto-alvo e com a distância (D) entre a mão da pessoa e esse objeto-alvo. Segundo Fitts, o tempo médio para apontar
+para um alvo pode ser calculado através de uma fórmula como a seguir: T= k x log2 (D/S + 0.5), onde a constante k~100ms é determinada empiricamente e pode variar conforme o tipo de dispositivo utilizado. 
+Essa lei na IHC, pode ser utilizada para modelar o tempo que leva para o mouse ou outro dispositivo de entrada semelhante atingir um tempo rápido de resposta por parte do usuário. A definição da posição e tamanho de um elemento são essenciais
+para o rápido acesso a ele.
+- De acordo com a psicologia experimental o ser humano tem a tendência de olhar para a esquerda ao visualizar uma interface em um sistema, por isso a maioria dos menus e logos estão localizadas no lado esquerdo da interface do sistema.
+- Uma palheta de ferramentas deve ser posicionada de um lado da tela. Quando há poucas ferramentas, a lei de Fitts indica que é melhor organizá-las em uma única coluna ou linha.
+- O acesso ao menu no top da tela é, em média, em torno de cinco vezes mais rápido do que em um menu semelhante em uma aplicação Windows.
+- Um menu pop-up circular tem como vantagem sobre um menu pop-pup horizontal, pelo fato de que todas as opções estão equidistantes e próximas do ponto em que o menu foi acionado.
+-----------------------------------------------
+
+Processador Humano de Informação: (* PÁGINA 7 DO SLIDE Aula02)
+Memória de Longo Prazo -> Processador Motor -> Atuadores -> saída (Mundo externo)
+Memória de Trabalho -> Processador Cognitivo -> Memória de Longo Prazo.
+entrada (mundo externo) -> Receptores (olhos, ouvidos...) -> Processador Perceptivo - > Memória de Trabalho -> Processador Cognitivo -> Memória de Longo Prazo -> Processador Motor -> Atuadores -> saída (mundo externo)
+-MPIH é um modelo que visa ajudar a prever a iteração usuário-computador, com relação a comportamentos. Esse modelo é composto por um conjunto de memórias, processadores e um conjunto de princípios de operação. Além disso, ele é composto por 3 subsistemas 
+O Sistema Perceptual(SP), o Sistema Motor (SM) e o Sistema Cognitivo (SC).
+-----------------------------------------------
+
+Leis de Gestalt(Forma)
+Segundo Ware, muito da nossa inteligência pode ser caracterizada pela nossa capacidade de identificar padrões.
+- O sistema visual é o nosso mecanismo de reconhecimento de padrões mais sofisticado;
+- um objetivo primário do design de representações visuais deve ser mapear dados numa forma visual compatível com as nossas capacidades perceptivas.
+
+Gestalt ou a Psicologia da Forma é uma doutrina da psicologia baseada na ideia da compreensão da totalidade para que haja a percepção das partes.
+- Semelhança: Objetos semelhantes são percebidos como um grupo;
+- Proximidade: As entidades visuais que estão próximas umas das outras são percebidas como um grupo ou unidade;
+- Continuidade: Traços contínuos são percebidos mais prontamente do que contornos que mudem de direção rapidamente;
+- Pregnância: Objetos em um mesmo ambiente são vistos de forma mais simples possível;
+- Fechamento: A mente tende a fechar contornos para completar figuras regulares, completanto as falhas e aumentando a regularidade;
+- Unificação: A unificação acontece quando existem elementos iguais ou semelhantes distribuídos de forma coerente e harmônica.
+Lei da Simetria
+- Objetos simétricos são mais prontamente percebidos do que objetos assimétricos;
+- Objetos com a mesma direção de movimento são percebidos como um grupo.
+Leis adicionais
+Região comum: objetos dentro de uma região espacial confinada são percebidos como um grupo;
+Conectividade: objetos conectados por traços contínuos são percebidos como relacionados.
+
+*Aplicado a interfaces:
+Proximidade: Os elementos presentes na interface que apresentam alguma relação entre si devem estar logicamente conectados.
+Alinhamento: O alinhamento permite criar uma interface mais coesa, possibilitando aos leitores agrupar os elementos que estão relacionados.
+Repetição: Essa propriedade determina que alguma característica do design deve se repetir ao longo do trabalho, a fim de apresentar unidade e organizar informações.
+------------------------------------------------
+
+Engenharia cognitiva
+A engenharia cognitiva foi concebida por Donald Normam como uma tentativa de aplicar conhecimentos de ciência cognitiva, psicologia cognitiva e fatores humanos ao design e construção de sistemas computacionais.
+- entender os principios fundamentais da ação e desempenho humano relevantes para o desenvolvimento de principios de design;
+- elaborar sistemas que sejam agradaveis de usar e que engajem os usuários até de forma prazerosa.
+Na engenharia cognitiva temos algumas variáveis, entre elas as variáveis psicológicas (objetivos, intenções) e na interface temos as variáveis físicas (estados do sistema) e controles físicos (mecanismos de interação)
+Em muitas situações, as variáveis que podem ser facilmente controlados não são aquelas pelas quais a pessoa mais se interessa.
+
+-------------------------------------------------
+
+Os Golfos (PÁGINA 13 E 14 DO SLIDE Aula02)
+Golfo de execução: se refere a dificuldade de atuar sobre o ambiente e ao grau de sucesso com que o artefato apoia essas ações.
+Golfo de avaliação: se refere a dificuldade de avaliar o estado do ambiente e ao grau de sucesso com que o artefato apoia a detecção e interpretação desse estado.
+
+Usuário(Objetivos) -(Golfo de execução)-> sistema -(Golfo de avaliação)-> Usuário
+(atividade física é produzida pelo sistema);(atividade mental é produzida pelo usuário) 
+
+Usuário(Objetivos) -(Golfo de execução)-> intenção -(Golfo de execução)-> especificação da ação -(Golfo de execução)-> execução -(Golfo de execução)-> sistema -(Golfo de avaliação)-> percepção -(Golfo de avaliação)-> interpretação -(Golfo de avaliação)-> avaliação -(Golfo de avaliação)-> Usuário
+(atividade física é produzida pelo sistema);(atividade mental é produzida pelo usuário) 
+
+*O designer do sistema deve tentar abreviar os golfos de execução e de avaliação que precisam ser atravessados pelo usuário a fim de reduzir os problemas que ocorrem durante a interação.

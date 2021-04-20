@@ -1,0 +1,48 @@
+Prototipação (Slide Aula03, 19 de Março)
+
+Construir versões interativas dos designs
+Projetar algo levando em consideração interação, interface, usabilidade, affordance, etc... de forma que os usuários possam interagir de alguma forma com o seu produto.
+Prototipar é uma forma de você sentir como o usuário interage com o seu produto.
+Protótipos são usados para verificar e avaliar as qualidades do sistema, antes que seja construído. A prototipação dá vida a uma ideia, da a possibilidade de testar a realidade do artefado projetado.
+Protótipo é... Estratégia para lidar com coisas difíceis de prever; Incompleto; Fácil de alterar; Passível de aposentar.
+O Protótipo deve... Permitir aprender/comunicar mais em menos tempo; Permitir fazer mudanças maiores mais cedo.
+
+Processo de Prototipação 
+Prototipação -> apresenta, critica, faz um sketch(loop) -> valida -> sketch, apresenta, critica(loop) -> prototipa (loop)
+
+Usuário
+-É mais fácil de realizar testes de interatividade
+-Mais feedback criativo
+
+Stakeholders 
+-Minimiza o investimento
+-Produto mais criativo e interativo
+-Reduz lixo
+
+Tipos de Prototipação
+Exploratória: O cliente não tem certeza dos requisitos básicos; Os requisitos não são estáveis(ou estabilizáveis); Existem requisitos ambíguos; Há contradição nos requisitos.
+Prototipação Exploratória é um modelo operacional de partes de um sistema de informação, o qual enfatiza aspectos específicos do sistema, ela reduz os riscos com requisitos e o protótipo NÃO deve ser considerado aprte do produto final.
+-----------------------------------------------
+
+Evolucionária: O cliente tem certeza dos requisitos básicos; Os requisitos são estáveis (ou estabilizáveis); Não existem requisitos ambíguos; Não Há contradição nos requisitos.
+Prototipação Evolucionária é um prototipo inicial produzido e refinado através de vários estágios até atingir o sistema final, em alguns casos fornecer as funcionalidades básicas é urgente e mais importante, em geral, associada a métodos ágeis.
+-----------------------------------------------
+
+Protótipos podem ser classificados como:
+Baixa Fidelidade: Não se assemelham com o produto final, exploração e testes nas fases iniciais, simples, baratos e fáceis de produzir/alterar.
+Alta Fidelidade: Mais se assemelham ao produto final, mesmas técnicas e materiáis do produto final, permanece com funcionalidades limitadas.
+-----------------------------------------------
+
+Estratégias de Prototipação:
+-Prototipação em papel- Exige pouco esforço, os usuários tendem a sugerir mais, não exige especialista para operação de programas específicos ou desenvolvimento, deixa o usuário mais relaxado, podem ser realizadas várias baterias de iteração em um único dia. Porém tem baixa fidelidade com o produto final, tem baixo nível de detalhe e não é possível medir desempenho.
+-Wireframing - Os testes podem levar a resultados mais próximos do produto final, existem muitos softwares disponíveis/pode ser em qualquer ferramenta de desenho. Mas, exige mais esforço que o protótipo de papel, pode confundir o usuário sobre o design visual, pode ter baixo nível de detalhamento em interações que exigem, por exemplo, Ajax.
+É uma representaçã oque pode variar de baixa a média fidelidade, dependendo do software e técnica utilizada. Também utilizada para documentação de aplicação Web.
+-Mock up - Bom para avaliar a legibilidade, bom para avaliar a aceitação visual. Mas, exige mais esforço que o protótipo em papel, conduz o usuário a focar em problemas visuais e esquecer usabilidade e interação, as baterias de testes são mais lentas, assim como as interações.
+"Maquele em tamanho natural" do produto final, layout finalizado com acabamento final.
+-Protótipo navegável - Os testes podem levar a resultados mais próximos do produto final e permite a realização de testes de redesign. Mas, exige mais esforço que o protótipo em papel, pode confundir o usuário sobre o design visual, as baterias de testes são mais lentas, assim como as iterações, poucos softwares realmente facilitam a criação de forma rápida e exige especialista que possa programar protótipos mais complexos.
+-----------------------------------------------
+
+O Design de interação exige alto nível de participação do usuário/cliente;
+Maior possibilidade de produto - Mais aceitável pelo usuário; Mais criativo e interativo; Mais satisfatório para todas as partes.
+Dentro do DI, a atividade de prototipação é extremamente importante.
+
