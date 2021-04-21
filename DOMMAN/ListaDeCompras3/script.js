@@ -39,5 +39,16 @@ button.onclick = function botao() {
             alert("Dado inválido, tente novamente.");
         }
     }
+
+    /*
+    listBtnAtt.onclick = function(e) {
+        var input = (prompt('Escreva o novo item:'));
+
+        if (input) {
+            var textnode = document.createTextNode(input);
+            listItem.replaceChild(textnode, listItem.childNodes[0]);
+        }
+    }
+*/
     input.focus();
 }
