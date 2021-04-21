@@ -33,7 +33,7 @@ button.onclick = function botao() {
 
     listBtnAtt.onclick = function(e) {
         let att = prompt("Novo Item");
-        if (att != null && att != "") {
+        if (att != null) {
             listText.textContent = att;
         } else {
             alert("Dado inválido, tente novamente.");
