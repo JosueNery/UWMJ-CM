@@ -1,0 +1,12 @@
+#id-card {
+    border: 1px solid black;
+    border-radius: 5 px;
+    width: 400px;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    padding: 6px;
+    background-color: blueviolet;
+}
+
+#id-nome {
+    float: rigth;
+}
